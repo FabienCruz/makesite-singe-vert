@@ -116,18 +116,10 @@ Le livre de Julia de Funès n'aide pas, au final, à la compréhension du phéno
 
 Elle apporte davantage un point de vue à situer dans une veine **conservatrice**, l'éducation est devenue "permissive" depuis 1968 (p.27), fondé sur des affirmations et des **arguments d'autorité**, les "grands penseurs" (p.10).
 
-**Le phénomène médiatique qu'elle est, reste, en revanche, fascinant et mériterait que l'on s'y attarde en tant que tel.** Elle était venue donner une conférence dans l'entreprise où je travaillais, et, je n'entendais parler que d'elle ensuite. D'où ma lecture.
+Mais restons philosophe et demandons-nous s'il faut se plaindre, qu'au pays de Voltaire, les pamphlétaires aient une telle exposition médiatique.
 
-Remarquons déjà l'exposition: des [livres](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=julia+de+fun%C3%A8s&sft=1&sa=0), des [conférences](https://www.youtube.com/watch?v=l3hf2LQ3SNs), des [passages dans des médias à diffusion nationale](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invitee-les-effets-du-teletravail-avec-la-philosophe-julia-de-funes-31211956.html). On peut y voir un filon qui répond aux attentes d'un marché, ou une parole qui a trouvé son oreille.
+**Car le phénomène médiatique qu'elle est, reste fascinant et mériterait que l'on s'y attarde en tant que tel.** Elle était venue donner une conférence dans l'entreprise où je travaillais, et, je n'entendais parler que d'elle ensuite. D'où ma lecture.
 
-Ci-dessous quelques hypothèses rapides sur cette réussite:
+Remarquons cette exposition: des [livres](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=julia+de+fun%C3%A8s&sft=1&sa=0), des [conférences](https://www.youtube.com/watch?v=l3hf2LQ3SNs), des [passages dans des médias à diffusion nationale](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invitee-les-effets-du-teletravail-avec-la-philosophe-julia-de-funes-31211956.html). 
 
-D'abord il y a une **posture d'autorité**, la philosophie et ses grands auteurs, **associée à une figure de modernité**, une femme cultivée.
-
-Je note qu'elle reste sur des chemins balisés: Friedrich Nietzsche, David Hume ou Gilles Deleuze. Comme l'histoire qu'elle utilise, ce sont des **repères légitimes**.
-
-Son attention se porte sur **un sujet d'actualité, grand public, portant une part d'absurde**, comme l'incantation au bonheur obligatoire. 
-
-Ajoutons à cela une **mémorisation facile: un nom célèbre**, les journalistes n'hésitent pas à rappeler son grand-père, (plus facile à retenir que [Mihály Csíkszentmihályi](https://fr.wikipedia.org/wiki/Mih%C3%A1ly_Cs%C3%ADkszentmih%C3%A1lyi)) **allié à un positionnement clair, tranché et lisible**.
-
-Finalement, restons philosophe et demandons-nous s'il faut se plaindre, qu'au pays de Voltaire, les pamphlétaires aient une telle exposition médiatique.
+On peut y voir un filon qui répond aux attentes d'un marché, ou une parole qui a trouvé son oreille. Tout cela ramène au point de départ: pourquoi cet engouement autour du développement personnel? Qu'est-ce que cela dit de notre époque et de nos contemporains?
