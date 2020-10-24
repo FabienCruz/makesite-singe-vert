@@ -197,6 +197,10 @@ def main():
     post_layout = render(page_layout, content=post_layout)
     list_layout = render(page_layout, content=list_layout)
 
+    # Create site pages.
+    make_pages('content/[!_]*.html', '_site/{{ slug }}/index.html',
+               page_layout, **params)
+
     # Create blogs.
     blog_posts = make_pages('content/*.md',
                             '_site/blog/{{ slug }}/index.html',
