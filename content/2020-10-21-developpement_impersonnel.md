@@ -70,7 +70,7 @@ Contrairement au métier de psychologue, il n'y a aucune règle, aucune compéte
 
 L'exercice de mise au jour de mécanismes récurrents dans de nombreux livres de développement personnel, pouvant potentiellement mettre des gens sous influence, est intéressant à cet égard. D'autre constats faits par Julia de Funès font mouches, notamment la liste des "idéologies".
 
-Cependant, on ne peut pas parler d'enquête ou d'étude. **L'analyse présentée repose presque entièrement sur la lecture de trois livres.** Aucun entretien, aucune observation, aucun questionnaire. Tellement **peu de sources et de faits sur lesquelles s'appuyer, pour construire autant d'affirmations**. Elle **ne définit d'ailleurs jamais son sujet, le "développement personnel"**.
+Cependant, on ne peut pas parler d'enquête ou d'étude. **L'analyse présentée repose presque entièrement sur la lecture de trois livres.** Aucun entretien, aucune observation, aucun questionnaire. Tellement **peu de sources et de faits sur lesquelles s'appuyer, pour construire autant d'affirmations. Elle ne définit d'ailleurs jamais son sujet, le "développement personnel"**.
 
 Pour montrer, en contraste à la lecture du livre de Julia de Funès, un exemple de travail plus rigoureux sur le même sujet et, aussi, avec un regard de philosophe, j'utilise l'article sur la [généalogie du coaching](https://journals.openedition.org/communicationorganisation/4204) de Baptiste Rappin « Essai philosophique sur les origines cybernétiques du coaching », *Communication et organisation*, 43 | 2013
 
@@ -110,8 +110,8 @@ Le "faux" s'opposerait au vrai pour qu'il y ait une "confrontation". Où sont l'
 
 Le livre de Julia de Funès n'aide pas, au final, à la compréhension du phénomène étudié.
 
-- Expliquer l'engouement pour le développement personnel par le désenchantement du monde, version très résumée, reste très vague. 
-- Bien que multiforme, son sujet n'est pas délimité. Qu'est-ce qui en est inclus ou exclus ? 
+- Expliquer l'engouement pour le développement personnel par le désenchantement du monde, version très résumée, reste vague. 
+- Bien que multiforme, son sujet n'est pas délimité. Qu'est-ce qui en est inclus ou exclus? De quoi parle-t-on? 
 - En dehors des textes philosophiques et des trois livres utilisés, il n'y a quasiment aucune source, aucune référence.
 
 Elle apporte davantage un point de vue à situer dans une veine **conservatrice**, l'éducation est devenue "permissive" depuis 1968 (p.27), fondé sur des affirmations et des **arguments d'autorité**, les "grands penseurs" (p.10).
@@ -122,4 +122,4 @@ Mais restons philosophe et demandons-nous s'il faut se plaindre, qu'au pays de V
 
 Remarquons cette exposition: des [livres](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=julia+de+fun%C3%A8s&sft=1&sa=0), des [conférences](https://www.youtube.com/watch?v=l3hf2LQ3SNs), des [passages dans des médias à diffusion nationale](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invitee-les-effets-du-teletravail-avec-la-philosophe-julia-de-funes-31211956.html). 
 
-On peut y voir un filon qui répond aux attentes d'un marché, ou une parole qui a trouvé son oreille. Tout cela ramène au point de départ: pourquoi cet engouement autour du développement personnel? Qu'est-ce que cela dit de notre époque et de nos contemporains?
+On peut y voir un filon qui répond aux attentes d'un marché, ou une parole qui a trouvé son oreille. Tout cela ramène au point de départ: pourquoi cet engouement pour (ou contre) le développement personnel? Qu'est-ce que cela dit de notre époque et de nos contemporains?

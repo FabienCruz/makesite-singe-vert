@@ -26,9 +26,21 @@ a:hover {
     border-bottom: transparent;
   }
 
+  figure{
+    width: 50%;
+    text-align: center;
+    margin: 1em;
+  }
+  
+  figcaption {
+    margin-top: 0;
+    font-size: 0.9em;
+    color: rgba(0,0,0,0.5);
+  }
+
 /* Single column layout */
 nav section, header section, main, footer section {
-    max-width: 40em;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
     padding: 0 0.5em;
@@ -140,18 +152,31 @@ p.summary {
   top: 0.3em;
   }
 
-  #logomenu {
-    width: auto;
-    position: relative;
-    top: 0.5em;
-    right: 0.3em;
+/* responsiveness
+
+@media (max-width: 1025px) {
+  body {
+    width: 60%;
   }
 
-  figcaption {
-    margin-top: 0;
-    font-size: 0.9em;
-    color: rgba(0,0,0,0.5);
+  h1 {
+    font-size: 3.7vw;
   }
+}
+
+@media (max-width: 500px) {
+  body {
+    width: 90%;
+    font-size: 1em;
+  }
+
+  h1 {
+    font-size: 5.5vw;
+  }
+}
+*/
+
+
 
 /*
 
