@@ -6,3 +6,6 @@ htmlcov
 *.sw?
 .DS_Store
 venv
+
+# Local Netlify folder
+.netlify
