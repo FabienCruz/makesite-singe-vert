@@ -5,7 +5,7 @@
 
 <figure>
 
-![Développement impersonnel couverture du livre](/images/developpement_impersonnel.jpg)
+![Développement impersonnel couverture du livre](/images/developpement_impersonnel.jpg?nf_resize=fit&w=300)
 
 <figcaption> 
 De Funès, Julia Développement (im)personnel - Le succès d'une imposture, 
