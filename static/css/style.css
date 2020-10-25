@@ -1,10 +1,11 @@
 /* General */
 body {
     margin: 0;
-    font-size: 1.1em;
-    line-height: 1.6;
-    color: rgba(0, 0, 0, 0.8);
     font-family: serif;
+    font-size: 1.3em;
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.75);
+    background-color: whitesmoke;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
     text-decoration: none;
-    color: rgba(0,0,0,0.8);
+    color: rgba(0,0,0,0.75);
     border-bottom: solid 1px;
     transition: all ease-out 0.5s;
   }
@@ -26,17 +27,21 @@ a:hover {
     border-bottom: transparent;
   }
 
-  figure{
-    width: 50%;
-    text-align: center;
-    margin: 1em;
-  }
-  
-  figcaption {
-    margin-top: 0;
-    font-size: 0.9em;
-    color: rgba(0,0,0,0.5);
-  }
+figure {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+figure img {
+  max-width: 12em;
+}
+
+figcaption {
+  margin-top: 0;
+  font-size: 0.9em;
+  color: rgba(0,0,0,0.5);
+}
 
 /* Single column layout */
 nav section, header section, main, footer section {
@@ -67,14 +72,8 @@ nav p {
 }
 
 nav a:hover, nav a:active {
-    color: palegreen;
-    border-bottom: solid 1px palegreen;
-}
-
-@media screen and (min-width: 600px) {
-    nav .links {
-        float: right;
-    }
+    color: lightgrey;
+    border-bottom: solid 1px lightgrey;
 }
 
 
@@ -152,166 +151,24 @@ p.summary {
   top: 0.3em;
   }
 
-/* responsiveness
+/* responsiveness */
 
-@media (max-width: 1025px) {
+@media (max-width: 1160px) {
   body {
-    width: 60%;
+    font-size: 1.1em;
   }
 
-  h1 {
-    font-size: 3.7vw;
+  nav section, header section, main, footer section {
+    width: 60%;
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   body {
-    width: 90%;
     font-size: 1em;
   }
 
-  h1 {
-    font-size: 5.5vw;
-  }
-}
-*/
-
-
-
-/*
-
----- maquettes
-
-body {
-  background-color: #fafafa;
-  margin: auto;
-  width: 50%;
-  font-family: monospace;
-  font-size: 1.1em;
-}
-
-p, ol, ul {
-  line-height: 1.6;
-  color: rgba(0,0,0,0.8);
-  margin: 1em auto 0em
-}
-
-h1 {
-  font-size: 3.2vw;
-  margin: 0;
-}
-
-h2, h3, h4, h5, h6 {
-  font-weight: normal;
-  color: #008500;
-  margin: 2em auto 0em;
-}
-
-h2 {
-  font-size: 2em;
-}
-
-h3 {
-  font-size: 1.7em;
-}
-
-h4 {
-  font-size: 1.4em;
-}
-
-h5 {
-  font-size: 1.2em;
-}
-
-h6 {
-  font-size: 1em;
-}
-
-button {
-  font-family: monospace;
-  border: none;
-  border-bottom: solid 1px;
-  background-color: transparent;
-  padding: 0;
-  color: #008500;
-}
-
-button:hover {
-  padding-bottom: 1px;
-  border-bottom: none;
-}
-
-
-a {
-  text-decoration: none;
-  color: rgba(0,0,0,0.8);
-  border-bottom: solid 1px;
-  transition: all ease-out 0.5s;
-}
-
-a:hover {
-  color: #008500;
-  border-bottom: transparent;
-}
-
-nav {
-  text-align: center;
-  margin: 1em;
-}
-
-header {
-  width: 100%;
-  border-top: solid 3px;
-  border-bottom: solid 1px;
-  padding-bottom: 1em;
-}
-
-figure{
-  text-align: center;
-  margin: 1em;
-}
-
-figcaption {
-  margin-top: 0;
-  font-size: 0.9em;
-  color: rgba(0,0,0,0.5);
-}
-
-img {
-  width: 50%;
-}
-
-.nav {
-  font-size: 1.3em;
-}
-
-#logo {
-  width: auto;
-  position: relative;
-  height: 1.3em;
-  left: 0.2em;
-  top: 0.3em;
-  z-index: -1;
-}
-
-@media (max-width: 1025px) {
-  body {
-    width: 60%;
-  }
-
-  h1 {
-    font-size: 3.7vw;
-  }
-}
-
-@media (max-width: 500px) {
-  body {
+  nav section, header section, main, footer section{
     width: 90%;
-    font-size: 1em;
-  }
-
-  h1 {
-    font-size: 5.5vw;
   }
 }
-*/
