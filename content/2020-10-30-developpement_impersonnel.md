@@ -3,7 +3,14 @@
 <!-- author: le singe vert -->
 *Une philosophe qui s'intéresse au développement personnel avec un regard critique, voilà qui suscite la curiosité. Malheureusement, son livre manque de rigueur et de nuance pour apporter un éclairage intéressant sur son sujet. Reste que le succès médiatique de son auteure mérite qu'on y prête une attention.*
 
+<figure>
+
+![couverture Développement (im)personnel](/images/developpement_impersonnel.jpg)
+
+<figcaption>De Funès, Julia Développement (im)personnel - Le succès d'une imposture, Éditions de l’Observatoire - Humensis, Paris, 2019 </figcaption>
+
 </figure>
+
 
 ### Lecture de son livre
 
