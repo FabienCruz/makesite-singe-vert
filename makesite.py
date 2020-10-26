@@ -34,6 +34,7 @@ import glob
 import sys
 import json
 import datetime
+import commonmark
 
 
 def fread(filename):

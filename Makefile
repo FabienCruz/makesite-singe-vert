@@ -18,15 +18,15 @@ serve: site
 venv2:
 	virtualenv ~/.venv/makesite
 	echo . ~/.venv/makesite/bin/activate > venv
-	. ./venv && pip install commonmark coverage
+	. ./venv && pip3 install commonmark coverage
 
 venv: FORCE
 	python3 -m venv ~/.venv/makesite
 	echo . ~/.venv/makesite/bin/activate > venv
-	. ./venv && pip install commonmark coverage
+	. ./venv && pip3 install commonmark coverage
 
 test: FORCE
-	. ./venv && python -m unittest -bv
+	. ./venv && python3 -m unittest -bv
 
 coverage:
 	. ./venv && coverage run --branch --source=. -m unittest discover -bv; :
