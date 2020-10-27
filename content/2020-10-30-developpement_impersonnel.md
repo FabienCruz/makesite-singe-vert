@@ -1,5 +1,5 @@
 <!-- title: Développement (im)personnel - Julia de Funès -->
-<!-- tags: ["récension", "developpement personnel", "entreprise"] -->
+<!-- description: récension du livre de Julia de Funès Le développement (im)personnel -->
 <!-- author: le singe vert -->
 *Une philosophe qui s'intéresse au développement personnel avec un regard critique, voilà qui suscite la curiosité. Malheureusement, son livre manque de rigueur et de nuance pour apporter un éclairage intéressant sur son sujet. Reste que le succès médiatique de son auteure mérite qu'on y prête une attention.*
 
@@ -19,7 +19,7 @@ Le livre propose de mener une **"déconstruction philosophique" des techniques d
 #### Première partie - le culte de l'épanouissement personnel
 
 Commençons par comprendre pourquoi, selon l'auteure, ce besoin d'épanouissement personnel?
-Elle reprend la **thèse du désenchantement progressif du monde** (expression de [Max Weber](https://www.larousse.fr/encyclopedie/personnage/Max_Weber/138958), repris par [Marcel Gauchet](http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-desenchantement-du-monde), dans laquelle l'individu de la société moderne est devenu seul responsable de son bonheur et de sa propre vie, sans plus rien de transcendant, ni religions, ni valeurs humanistes, pour le guider.
+Elle reprend la **thèse du désenchantement progressif du monde** (expression de [Max Weber](https://www.larousse.fr/encyclopedie/personnage/Max_Weber/138958), repris par [Marcel Gauchet](http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-desenchantement-du-monde)), dans laquelle l'individu de la société moderne est devenu seul responsable de son bonheur et de sa propre vie, sans plus rien de transcendant, ni religions, ni valeurs humanistes, pour le guider.
 "Aucun modèle extérieur n’étant plus imposé de manière autoritaire, la seule légitimité ne peut provenir que de l’autonomie de la vie vécue. Chacun est dans sa vérité, du moment qu’il est libre de conduire sa vie comme il l’entend."(p. 23)
 **Cet individu moderne est devenu un "Narcisse"**, selon l'expression de [Gilles Lipovetski](http://www.gallimard.fr/Catalogue/GALLIMARD/Les-Essais/L-Ere-du-vide) qu'elle cite, **qui fait face à un vide vertigineux. Sans repère, il peut sombrer dans la dépression ou la dépendance.** (p.23 à 35)
 
@@ -76,13 +76,13 @@ Dans son livre (p.51 à 52), Julia de Funès dresse brièvement une chronologie 
 
 Baptiste Rappin cherche aussi les sources des pratiques du coaching.  Il note d'abord que rares voire inexistants sont les livres qui évoquent les origines du coaching. Sa méthode, bien qu'il en reconnaisse les limites, consiste à prendre les ouvrages de références que se donnent eux-même les coachs, il parle d'une vingtaine d'ouvrages, il s'appuie aussi sur la [thèse de Sybil Persson](http://docnum.univ-lorraine.fr/public/NANCY2/doc559/2005NAN22001.pdf) qui dépouille quarante-quatre livres écrits par des coachs.
 
-Quelles sont les sources de Julia de Funès ? Y-a-t-il un lien entre les auteurs et les courants qu'elle évoque ? Comment construit-elle son histoire ? On manque d'informations.
+Quelles sont les sources de Julia de Funès ? Y-a-t-il un lien entre les auteurs et les courants qu'elle évoque? Comment construit-elle son histoire? On manque d'informations.
 
 Baptiste Rappin rejète certaines sources données par les coachs, Socrate et sa maïeutique, par exemple, perçu comme un discours de légitimation. Il en conserve trois, ainsi, "le coaching puise ses sources dans le Nouvel Âge, l’école de Palo Alto et la cybernétique."
 
 Il cite donc, comme Julia de Funès, le "Nouvel âge" dont Alice Bailey est une fondatrice. Cependant, contrairement à lui, **Julia de Funès omet de citer l'école de [Palo-Alto](https://www.cairn.info/l-ecole-de-palo-alto--9782130606628-page-3.htm) et la [cybernétique](https://carnets2psycho.net/dico/sens-de-cybernetique.html)**, alors qu'elle utilise le concept qui leur est attaché de "double bind" à un autre moment du livre (p.72 et 73).
 
-Dans sa liste, elle ajoute Emile Coué et la pensée positive de Dale Carnegie, dont les méthodes sont entrées dans la culture populaire, plutôt sur un ton moqueur. Pourquoi ces choix et pourquoi ces omissions ?
+Dans sa liste, elle ajoute Emile Coué et la pensée positive de Dale Carnegie, dont les méthodes sont entrées dans la culture populaire, plutôt sur un ton moqueur. Pourquoi ces choix et pourquoi ces omissions?
 
 Sans s'attendre à une recherche universitaire, je m'attendais à un livre comme ceux de la collection de [la république des idées](https://www.seuil.com/recherche?s=r%C3%A9publique+des+id%C3%A9es), un expert qui vulgarise une réflexion originale sur un phénomène de société. 
 
@@ -90,19 +90,19 @@ Sans s'attendre à une recherche universitaire, je m'attendais à un livre comme
 
 Elle reconnait d'ailleurs que "le ton parfois effronté de cet ouvrage sera considéré par les ayatollahs de ces pratiques ou charlatans du « moi » comme du mauvais esprit, de l’amalgame facile, du sabotage malveillant ou de la caricature." (p.11)
 
-Le journal Le Monde a publié, en août 2020, une série d'articles intitulé ["le courage de la nuance"](https://www.lemonde.fr/series-d-ete/article/2020/08/23/albert-camus-tout-en-equilibre_6049713_3451060.html), j'en tire cette citation d'Albert Camus :
+Le journal Le Monde a publié, en août 2020, une série d'articles intitulé ["le courage de la nuance"](https://www.lemonde.fr/series-d-ete/article/2020/08/23/albert-camus-tout-en-equilibre_6049713_3451060.html), j'en tire cette citation d'Albert Camus:
 
 > "Quel est le mécanisme de la polémique ? Elle consiste à considérer l’adversaire en ennemi, à le simplifier par conséquent et à refuser de le voir." - Albert Camus
 
-Petit extrait du livre de Julia de Funès: "Les réseaux sociaux débitent des packs de niaiseries confucéennes en série, dans une phraséologie infantile truffée de clichés démagogiques." (p.7) Niais, infantilisant, démagogique. **Ton effronté ou dénigrement de l'adversaire?** Les "réseaux sociaux"semblent d'ailleurs un adversaire bien nébuleux, mais n'en emploie-t-elle pas la manière ?
+Petit extrait du livre de Julia de Funès: "Les réseaux sociaux débitent des packs de niaiseries confucéennes en série, dans une phraséologie infantile truffée de clichés démagogiques." (p.7) Niais, infantilisant, démagogique. **Ton effronté ou dénigrement de l'adversaire?** Les "réseaux sociaux"semblent d'ailleurs un adversaire bien nébuleux, mais n'en emploie-t-elle pas la manière?
 
-En passant, est-ce Confucius qui est niais ? Dans la première partie de son livre, elle brosse à grand trait une histoire du monde qu'elle nomme "diagnostic" (p.17 à 21): dans l'Antiquité, il y a Aristote et Socrate, pas Confucius, ensuite, il y a l'ordre religieux qui succède à l'ordre cosmique, presque du pur [Auguste Comte](https://la-philosophie.com/positivisme-auguste-comte). En d'autres termes, **elle véhicule un discours historique évolutionniste et ethno-centrée, celle d'auteurs européens du XIXe siècle**.
+En passant, est-ce Confucius qui est niais? Dans la première partie de son livre, elle brosse à grand trait une histoire du monde qu'elle nomme "diagnostic" (p.17 à 21): dans l'Antiquité, il y a Aristote et Socrate, pas Confucius, ensuite, il y a l'ordre religieux qui succède à l'ordre cosmique, presque du pur [Auguste Comte](https://la-philosophie.com/positivisme-auguste-comte). En d'autres termes, **elle véhicule un discours historique évolutionniste et ethno-centrée, celle d'auteurs européens du XIXe siècle**.
 
-Dans la troisième partie du livre, dans chaque "ouverture", elle résume la pensée d'un philosophe sur chaque thème. Pourquoi un seul ? Il en découle cette impression qu'il y a la bonne façon de penser et la mauvaise.
+Dans la troisième partie du livre, dans chaque "ouverture", elle résume la pensée d'un philosophe sur chaque thème. Pourquoi un seul? Il en découle cette impression qu'il y a la bonne façon de penser et la mauvaise.
 
 Sa lecture des principes de la communication non violente, au travers du livre de Thomas d’Ansembourg, illustre aussi cette **conception conflictuelle du dialogue**, faite d'une opposition **binaire**, un jeu à somme nulle avec, d'un côté, un qui a raison et, de l'autre, un qui a tord:
 
-Dans la communication non violente, "[...] toute confrontation [est] impossible, puisque le sujet ne parle que de lui-même, de ce qu’il ressent, terrain sur lequel l’autre ne peut le contredire. Comment dire à autrui que ce qu’il ressent est faux ?"(p.83)
+Dans la communication non violente, "[...] toute confrontation [est] impossible, puisque le sujet ne parle que de lui-même, de ce qu’il ressent, terrain sur lequel l’autre ne peut le contredire. Comment dire à autrui que ce qu’il ressent est faux?"(p.83)
 
 Le "faux" s'opposerait au vrai pour qu'il y ait une "confrontation". Où sont l'écoute et l'empathie nécessaires à la compréhension de l'autre? Où se situe une autre possibilité que vrai ou faux?
 
