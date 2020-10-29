@@ -12,18 +12,18 @@
 </figure>
 
 
-### Lecture de son livre
+## Lecture de son livre
 
 Le livre propose de mener une **"déconstruction philosophique" des techniques de développement personnel**, et cela en trois temps: d'abord, comprendre "les ressorts psychologiques et philosophiques" du "besoin d'épanouissement personnel", puis, de démonter la mécanique "rhétorique" systématique utilisée, enfin, de s'en libérer, grâce aux "grands penseurs" (p.10).
 
-#### Première partie - le culte de l'épanouissement personnel
+### Première partie - le culte de l'épanouissement personnel
 
 Commençons par comprendre pourquoi, selon l'auteure, ce besoin d'épanouissement personnel?
 Elle reprend la **thèse du désenchantement progressif du monde** (expression de [Max Weber](https://www.larousse.fr/encyclopedie/personnage/Max_Weber/138958), repris par [Marcel Gauchet](http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-desenchantement-du-monde)), dans laquelle l'individu de la société moderne est devenu seul responsable de son bonheur et de sa propre vie, sans plus rien de transcendant, ni religions, ni valeurs humanistes, pour le guider.
 "Aucun modèle extérieur n’étant plus imposé de manière autoritaire, la seule légitimité ne peut provenir que de l’autonomie de la vie vécue. Chacun est dans sa vérité, du moment qu’il est libre de conduire sa vie comme il l’entend."(p. 23)
 **Cet individu moderne est devenu un "Narcisse"**, selon l'expression de [Gilles Lipovetski](http://www.gallimard.fr/Catalogue/GALLIMARD/Les-Essais/L-Ere-du-vide) qu'elle cite, **qui fait face à un vide vertigineux. Sans repère, il peut sombrer dans la dépression ou la dépendance.** (p.23 à 35)
 
-#### Deuxième partie - les réconforts imaginaires
+### Deuxième partie - les réconforts imaginaires
 
 Le **vide** qui amène ces symptômes, est parfois **comblé par de faux guides qui font croire que tout est possible**, que l'on peut devenir ce que l'on veut. Ces "tartuffes" (p.41) se sont les coachs en développement personnel.
 
@@ -44,7 +44,7 @@ Ces coachs font ensuite croire qu'il existe des **"recettes"** miraculeuses qu'i
 
 En libérant son moi, en général de la contraintes imposées par les autres (p.78), pour se soumettre aux règles dictées par le coach, l'individu se met paradoxalement à nouveau sous influence (p.79). Pour Julia de Funès, il s'agit là de **"manipulation"** et de **"fourberie"**.
 
-#### Troisième partie - comment se libérer des idéologies du développement personnel
+### Troisième partie - comment se libérer des idéologies du développement personnel
 
 Dans cette partie du livre, l'auteure reprend les idéologies, qui sous-tendent le développement personnel :
 
@@ -62,7 +62,7 @@ En bref, le développement personnel cherche l'authenticité de l'être, de mani
 
 Elle conclut par le rappel que se soumettre aux règles dictées par les coachs n'est pas une libération mais une mise sous influence, et, par un plaidoyer pour le recours à la philosophie.
 
-### Eléments de critiques - un manque de rigueur et de nuance
+## Eléments de critiques - un manque de rigueur et de nuance
 
 Contrairement au métier de psychologue, il n'y a aucune règle, aucune compétence exigée pour s'installer comme coach et comme le montre ce [reportage d'Arte](https://www.arte.tv/fr/videos/086893-004-A/arte-regards-l-ere-de-la-consommation-spirituelle-2-0/), il existe effectivement un marché considérable, abordé avec les techniques du marketing moderne, où ceux qui profitent des faiblesses d'autrui existent.
 

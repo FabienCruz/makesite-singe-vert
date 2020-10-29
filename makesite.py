@@ -61,6 +61,9 @@ def truncate(text, words=25):
     """Remove tags and truncate text to the specified number of words."""
     return ' '.join(re.sub('(?s)<.*?>', ' ', text).split()[:words])
 
+def counter(text):
+    """Estimate the reading time based on number of words"""
+    return round(len(text.split())/300)+1
 
 def read_headers(text):
     """Parse headers in text and yield (key, value, end-index) tuples."""
@@ -73,7 +76,7 @@ def read_headers(text):
 def rfc_2822_format(date_str):
     """Convert yyyy-mm-dd date string to RFC 2822 format date string."""
     d = datetime.datetime.strptime(date_str, '%Y-%m-%d')
-    return d.strftime('%a, %d %b %Y %H:%M:%S +0000')
+    return d.strftime('%d-%m-%Y')
 
 
 def read_content(filename):
@@ -107,9 +110,10 @@ def read_content(filename):
         except ImportError as e:
             log('WARNING: Cannot render Markdown in {}: {}', filename, str(e))
 
-    # Update the dictionary with content and RFC 2822 date.
+    # Update the dictionary with content and reading time and RFC 2822 date.
     content.update({
         'content': text,
+        'duration': counter(text),
         'rfc_2822_date': rfc_2822_format(content['date'])
     })
 
@@ -176,7 +180,7 @@ def main():
     params = {
         'base_path': '',
         'subtitle': 'Le singe vert',
-        'author': 'Admin',
+        'author': 'Le singe vert',
         'site_url': 'http://localhost:8000',
         'current_year': datetime.datetime.now().year
     }
