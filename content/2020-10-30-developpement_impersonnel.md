@@ -19,7 +19,7 @@ Le livre propose de mener une **"déconstruction philosophique" des techniques d
 ### Première partie - le culte de l'épanouissement personnel
 
 Commençons par comprendre pourquoi, selon l'auteure, ce besoin d'épanouissement personnel?
-Elle reprend la **thèse du désenchantement progressif du monde** (expression de [Max Weber](https://www.larousse.fr/encyclopedie/personnage/Max_Weber/138958), repris par [Marcel Gauchet](http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-desenchantement-du-monde)), dans laquelle l'individu de la société moderne est devenu seul responsable de son bonheur et de sa propre vie, sans plus rien de transcendant, ni religions, ni valeurs humanistes, pour le guider.
+Elle reprend la **thèse du désenchantement progressif du monde** (expression de [Max Weber](https://www.larousse.fr/encyclopedie/personnage/Max_Weber/138958), reprise par [Marcel Gauchet](http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-desenchantement-du-monde)), dans laquelle l'individu de la société moderne est devenu seul responsable de son bonheur et de sa propre vie, sans plus rien de transcendant, ni religions, ni valeurs humanistes, pour le guider.
 "Aucun modèle extérieur n’étant plus imposé de manière autoritaire, la seule légitimité ne peut provenir que de l’autonomie de la vie vécue. Chacun est dans sa vérité, du moment qu’il est libre de conduire sa vie comme il l’entend."(p. 23)
 **Cet individu moderne est devenu un "Narcisse"**, selon l'expression de [Gilles Lipovetski](http://www.gallimard.fr/Catalogue/GALLIMARD/Les-Essais/L-Ere-du-vide) qu'elle cite, **qui fait face à un vide vertigineux. Sans repère, il peut sombrer dans la dépression ou la dépendance.** (p.23 à 35)
 

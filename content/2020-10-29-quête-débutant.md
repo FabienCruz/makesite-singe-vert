@@ -31,7 +31,7 @@ Pour être honnête, à la fin du bootcamp, j'avais perdu confiance. **J'avais l
 
 Une des raisons pour lesquelles j'ai arrêté de tenir la poignée du manège, c'est que j'ai commencé à douter.
 
-## Le piège du doute: est-ce que j'étudie le bon langage ?
+## Le piège du doute: est-ce que j'étudie le bon langage?
 
 ### Le ver du doute est entré dans la pomme
 
