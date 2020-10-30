@@ -194,8 +194,6 @@ def main():
     post_layout = fread('layout/post.html')
     list_layout = fread('layout/list.html')
     item_layout = fread('layout/item.html')
-    feed_xml = fread('layout/feed.xml')
-    item_xml = fread('layout/item.xml')
 
     # Combine layouts to form final layouts.
     post_layout = render(page_layout, content=post_layout)
@@ -214,9 +212,6 @@ def main():
     make_list(blog_posts, '_site/index.html',
               list_layout, item_layout, blog='blog', title='Chronique', **params)
 
-    # Create RSS feeds.
-    make_list(blog_posts, '_site/rss.xml',
-              feed_xml, item_xml, blog='blog', title='Chronique', **params)
 
 
 # Test parameter to be set temporarily by unit tests.

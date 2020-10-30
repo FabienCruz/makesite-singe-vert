@@ -41,7 +41,7 @@ Dans ce bootcamp, **Ruby on Rails** est le langage de programmation principal. C
 
 **Cependant, j'avais le sentiment de ne pas apprendre le bon langage de programmation.**
 
-### Est-il populaire et à la mode ?
+### Est-il populaire et à la mode?
 
 J'ai passé beaucoup de temps à lire sur "quel est le langage de programmation le plus populaire?". En passant, c'est étonnant tout ce qui s'écrit sur ce thème.
 
@@ -90,7 +90,7 @@ Les tutoriels avaient des projets mais ils ne m'intéressaient pas vraiment. Je 
 
 **Au bout d'un certain temps, je me suis vraiment ennuyé. Ce n'était pas un problème en soi, c'était le signe qu'il fallait que je prenne du recul.**
 
-###  La limite des tutoriels
+###  La limite des tutoriels: l'illusion de la ligne d'arrivée
 
 Je cite cet [article](https://www.freecodecamp.org/news/learn-python-the-easy-way/) de Charlie Custer sur l'apprentissage d'un langage de programmation avec des tutoriels :
 > Je faisais aussi une autre grosse erreur mentale. J'avais une vision de l'apprentissage de Python très en-noir-et-blanc. Soit j'avais "appris Python" - tout Python - soit je ne l'avais pas fait.
@@ -109,7 +109,7 @@ Après le bootcamp et le tutoriel, mes idées sont devenue plus claires. Je peux
 
 **Le plus important est d'obtenir une satisfaction rapide, comme quand on réussit à construire un meuble IKEA.**
 
-### Le développement web ... pas vraiment ?
+### Le développement web ... pas vraiment?
 
 De plus, j'ai réalisé que je ne voulais pas me spécialiser dans le développement web. 
 J'aimerais construire mon blog, faire une API qui affiche des blagues carambar mais aussi manipuler des fichiers et automatiser des tâches, faire de la visualisation de données, toucher un peu au machine learning... et surtout je suis vraiment trop nul en design front-end.
