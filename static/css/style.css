@@ -23,6 +23,10 @@ h2 {
   font-size: 140%;
 }
 
+h1 a, h2 a {
+  border-bottom: transparent;
+}
+
 a {
     text-decoration: none;
     color: rgba(0,0,0,0.75);

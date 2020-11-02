@@ -35,4 +35,7 @@ my network is quite weak. I have worked for 16 years in the same company so that
 ## try the platforms
 You need a profile on linkedIn but it is not enough. There are plenty of [platform](https://independant.io/plateforme-freelance/). However, the quality is very different.
 [Malt](https://www.malt.fr/) is the #1 but I received 0 contact with it. Maybe, my profile is not good.
-I use [Freelance Info](https://www.freelance-info.fr/). I found it more efficient. I got 5 calls the first month to 
+I use [Freelance Info](https://www.freelance-info.fr/). I found it more efficient. I got 5 calls the first month after immatriculation.
+
+### the COVID lockdowns
+While the first 
